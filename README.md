@@ -1,4 +1,4 @@
-<img width="490" alt="image" src="https://github.com/gauthamkrishna7/BASIC-ANDROID-_EX_01/assets/141175025/116b388a-982f-4fb6-8597-a8a5804beaf9">
+
 
 # Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
@@ -82,9 +82,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT:
-![Uploading Screenshot 2024-03-07 at 7.51.16 AM.png…]()
 
-
+<img width="490" alt="image" src="https://github.com/gauthamkrishna7/BASIC-ANDROID-_EX_01/assets/141175025/116b388a-982f-4fb6-8597-a8a5804beaf9">
 
 
 
