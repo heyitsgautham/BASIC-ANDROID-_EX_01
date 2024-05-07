@@ -37,9 +37,11 @@ Developed by: GAUTHAM KRISHNA S
 RegisterNumber:  212223240036
 */
 ```
+
 <br>
 <br>
 <br>
+
 ## MainActivity.java:
 ```java
 package com.example.myapplication;
@@ -88,6 +90,7 @@ public class MainActivity extends AppCompatActivity {
 <br>
 <br>
 <br>
+
 ## OUTPUT:
 
 <img width="490" alt="image" src="https://github.com/gauthamkrishna7/BASIC-ANDROID-_EX_01/assets/141175025/116b388a-982f-4fb6-8597-a8a5804beaf9">
